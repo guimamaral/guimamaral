@@ -1,4 +1,4 @@
-Systems SWE @ **NVIVIDA**.\
+Systems SWE @ **NVIDIA**.\
 Currently building innovative **defense** technology.
 
 ## Interests: 
