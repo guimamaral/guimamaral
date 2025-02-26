@@ -1,5 +1,5 @@
-Systems SWE @ NVIVIDA.
-Currently building innovative defense technology.
+Systems SWE @ **NVIVIDA**.\
+Currently building innovative **defense** technology.
 
 ## Interests: 
     - Computer Architecture ⚡
