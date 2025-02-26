@@ -1,4 +1,4 @@
-Interests: 
+### Interests: 
     - Computer Architecture ⚡
     - Operating Systems 👑
     - Energy-Efficient Computing 🔋
@@ -8,7 +8,7 @@ Interests:
     - Security Research 🔒
     - Formal Methods 📓 
 
-Tech: 
+### Tech: 
     - AArch64
     - RISC-V
     - C/C++
