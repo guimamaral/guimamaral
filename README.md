@@ -18,7 +18,8 @@
     - Unix/Linux
     - Bash
 
-### Contact: guim[dot]amaral2004[at]utexas[dot]edu
+### Contact: 
+    - guim[dot]amaral2004[at]utexas[dot]edu
 
 <!--
 **guimamaral/guimamaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
