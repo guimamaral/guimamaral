@@ -1,5 +1,4 @@
 Systems SWE @ **NVIDIA**.\
-Currently building innovative **defense** technology.
 
 ## Interests: 
     - Computer Architecture ⚡
