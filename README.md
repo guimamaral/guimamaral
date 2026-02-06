@@ -1,15 +1,8 @@
-## Hey there 👋
+## 👋 Introduction
 
-I'm Guilherme Amaral, a senior at the University of Texas at Austin studying Computer Science. I'm an incoming **System Software Engineer at NVIDIA**, where I'll be working on cutting-edge GPU and system software technologies.
+Hey there! I'm Guilherme Amaral, a senior at the University of Texas at Austin studying Computer Science. I'm an incoming **System Software Engineer at NVIDIA**, where I'll be working on cutting-edge GPU and system software technologies.
 
 I tutor on the side and enjoy exploring the intersection of systems programming, architecture, and performance optimization.
-
----
-
-## 💬 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guimamaral@utexas.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimamaral/)
 
 ---
 
@@ -46,3 +39,10 @@ I tutor on the side and enjoy exploring the intersection of systems programming,
 ![Gerrit](https://img.shields.io/badge/Gerrit-EEEEEE?style=for-the-badge&logo=gerrit&logoColor=black)
 ![Coverity](https://img.shields.io/badge/Coverity-384551?style=for-the-badge&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+## 💬 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guimamaral@utexas.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimamaral/)
