@@ -54,9 +54,4 @@ I tutor on the side and enjoy exploring the intersection of systems programming,
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guimamaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guimamaral&theme=tokyonight" alt="GitHub Streak" />
-</div>
+![Gui's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guimamaral&theme=gruvbox)
