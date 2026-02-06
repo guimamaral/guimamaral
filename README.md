@@ -17,6 +17,7 @@ I tutor on the side and enjoy exploring the intersection of systems programming,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lisp](https://img.shields.io/badge/Lisp-3F4EBF?style=for-the-badge&logo=lisp&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
+![Simply Scheme](https://img.shields.io/badge/Simply_Scheme-9B4F96?style=for-the-badge&logoColor=white)
 
 ---
 
